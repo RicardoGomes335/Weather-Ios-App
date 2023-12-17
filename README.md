@@ -7,9 +7,9 @@ Aplicativo iOS de previsão de tempo integrado com a API OpenWeather.
 
 Versão do XCode utilizada: 14.3.1
 <div align="center>
-  <img widht="470" src="[Weather App/Assets.xcassets/to_readmeweatherApp.png](https://github.com/RicardoGomes335/Weather-Ios-App/assets/11543410/bcc904b2-048c-48e2-910a-1dd2273bc97f)">
+  <img widht="470" src="https://github.com/RicardoGomes335/Weather-Ios-App/assets/11543410/bcc904b2-048c-48e2-910a-1dd2273bc97f">
 </div>
-https://github.com/RicardoGomes335/Weather-Ios-App/assets/11543410/bcc904b2-048c-48e2-910a-1dd2273bc97f
+
 
 ## Link do Figma
 https://www.figma.com/file/OczdlZrkU7Z7DyYLLDoiPo/App-Tempo?type=design&node-id=0%3A1&mode=dev
