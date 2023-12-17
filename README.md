@@ -8,7 +8,6 @@ Aplicativo iOS de previsão de tempo integrado com a API OpenWeather.
 Versão do XCode utilizada: 14.3.1
 <div align="center>
   <img widht="470" src="https://github.com/RicardoGomes335/Weather-Ios-App/issues/1#issue-2045279633">
-  https://github.com/RicardoGomes335/Weather-Ios-App/issues/1#issue-2045279633
 </div>
 
 
