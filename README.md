@@ -6,7 +6,9 @@ Exemplo Aplicativo do Tempo Ios
 Aplicativo iOS de previsão de tempo integrado com a API OpenWeather.
 
 Versão do XCode utilizada: 14.3.1
-
+<div align="center>
+  <img widht="470" src="Assets.xcassets/to_readme/weatherApp.png">
+</div>
 
 ## Link do Figma
 https://www.figma.com/file/OczdlZrkU7Z7DyYLLDoiPo/App-Tempo?type=design&node-id=0%3A1&mode=dev
