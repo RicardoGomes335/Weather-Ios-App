@@ -1,7 +1,5 @@
 # weather-forecast-app
-=======
-Exemplo Aplicativo do Tempo Ios
-=======
+======= Exemplo Aplicativo do Tempo Ios =======
 
 ![weatherApp](https://github.com/RicardoGomes335/Weather-Ios-App/assets/11543410/2bb9fbe6-acbd-4fcb-9a09-0028f08b873f)
 Aplicativo iOS de previsão de tempo integrado com a API OpenWeather.
