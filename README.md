@@ -7,7 +7,7 @@ Aplicativo iOS de previsão de tempo integrado com a API OpenWeather.
 
 Versão do XCode utilizada: 14.3.1
 <div align="center>
-  <img widht="470" src="Assets.xcassets/to_readme/weatherApp.png">
+  <img widht="470" src="Weather App/Assets.xcassets/to_readmeweatherApp.png">
 </div>
 
 ## Link do Figma
